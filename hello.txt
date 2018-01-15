@@ -4,4 +4,6 @@ Hello world
 this is an edit
 this is second edit
 
-some random text in master - hello.txt file
+blah
+blah blah
+
